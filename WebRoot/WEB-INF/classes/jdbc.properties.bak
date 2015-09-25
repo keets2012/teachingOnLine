@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+jdbcUrl		= jdbc:mysql:///mytest2
+driverClass	= com.mysql.jdbc.Driver
+user		= root
+=======
+jdbcUrl		= jdbc:mysql:///mytest2
+driverClass	= com.mysql.jdbc.Driver
+user		= root
+>>>>>>> 51ac7a4e78cf43e26729d50406bb516e7ce0a18d
+password	=zhurongxin

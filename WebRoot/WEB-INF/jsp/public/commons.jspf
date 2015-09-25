@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+<%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
+
+<%@ taglib prefix="s" uri="/struts-tags" %>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script language="javascript" src="${pageContext.request.contextPath}/script/jquery-2.1.4.min.js"></script>
+    <script language="javascript" src="${pageContext.request.contextPath}/script/pageCommon.js" charset="utf-8"></script>
+    <script language="javascript" src="${pageContext.request.contextPath}/script/PageUtils.js" charset="utf-8"></script>
+     <script language="javascript" src="${pageContext.request.contextPath}/script/jquery-ui.js" charset="utf-8"></script>
+  
+    <link type="text/css" rel="stylesheet" href="${pageContext.request.contextPath}/style/blue/pageCommon.css" />
+      <link type="text/css" rel="stylesheet" href="${pageContext.request.contextPath}/style/jquery-ui.css" />
+=======
+<%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
+
+<%@ taglib prefix="s" uri="/struts-tags" %>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script language="javascript" src="${pageContext.request.contextPath}/script/jquery-2.1.4.min.js"></script>
+    <script language="javascript" src="${pageContext.request.contextPath}/script/pageCommon.js" charset="utf-8"></script>
+    <script language="javascript" src="${pageContext.request.contextPath}/script/PageUtils.js" charset="utf-8"></script>
+     <script language="javascript" src="${pageContext.request.contextPath}/script/jquery-ui.js" charset="utf-8"></script>
+  
+    <link type="text/css" rel="stylesheet" href="${pageContext.request.contextPath}/style/blue/pageCommon.css" />
+      <link type="text/css" rel="stylesheet" href="${pageContext.request.contextPath}/style/jquery-ui.css" />
+>>>>>>> 51ac7a4e78cf43e26729d50406bb516e7ce0a18d
+    <script type="text/javascript"></script>
